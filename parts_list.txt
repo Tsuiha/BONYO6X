@@ -1,0 +1,15 @@
+-Examples of required parts are shown below. Other compatible parts are acceptable.
+
+Switch Plate x1
+PCB x1
+-There is published kicad data here
+
+MX Switch and Keycap x 65 
+
+Poker compatible case
+-Please check the compatibility with the case on your own.
+
+Tactile Switch x1 *option
+-6x6mm type with 2 or 4 pins can be used. You can choose any height.
+
+LED SK6812MINI-E x2 *option
